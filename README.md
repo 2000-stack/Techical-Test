@@ -1,5 +1,3 @@
-# Techical-Test
-Technical assessment focused on recruitment analytics, hiring funnel performance, and sourcing strategy evaluation.
 # Recruitment Analytics Technical Assessment
 
 ## Overview
@@ -35,9 +33,12 @@ The project analyzes:
 * Recruitment Analytics
 * Funnel Analysis
 * Data Visualization
-
+* ChatGPT
+* Copilot
+* Canva
+  
 ---
 
 ## Author
 
-Developed by Andressa Chaves.
+Developed by Andressa Schwartzhaupt Chaves.
