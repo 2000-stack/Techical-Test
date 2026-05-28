@@ -22,8 +22,8 @@ The project analyzes:
 
 ## Files
 
-* `[Technical_Assessment.pdf](https://1drv.ms/b/c/4b73f2858fc9af1e/IQCzVOYMNvw7RK6Q0rdo0rEOAQaTctC6otaPEHtbq2T0ywY?e=QwgB7e)` → Complete analysis and business insights
-* `file:///C:/Users/dessa/OneDrive/Documentos/Technical%20Case%20Presentation.pdf` → Presentation
+* [Technical_Assessment Report.pdf](./Technical_Assessment_Report.pdf)
+* [Technical_Case_Presentation.pdf](./Technical_Case_Presentation.pdf)
 
 ---
 
